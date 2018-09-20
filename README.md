@@ -7,3 +7,8 @@
 抄袭 https://blog.csdn.net/qq_29163733/article/details/52154521 （修复了若干bug，就是好几个的意思）
 
  ![image](https://github.com/small-tree/LineTextView/blob/master/source/aaa.png)
+
+
+
+# 开元协议
+我是协议
